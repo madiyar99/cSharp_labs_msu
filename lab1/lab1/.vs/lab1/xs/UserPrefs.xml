@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{D2960D92-8A26-4205-9287-7909BA5EAE42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab1/CalculateMethodsComp.cs">
+    <Files>
+      <File FileName="lab1/Program.cs" Line="4" Column="1" />
+      <File FileName="lab1/DataItem.cs" Line="28" Column="10" />
+      <File FileName="lab1/V3Data.cs" Line="21" Column="150" />
+      <File FileName="lab1/V3DataList.cs" Line="7" Column="1" />
+      <File FileName="lab1/V3DataArray.cs" Line="26" Column="48" />
+      <File FileName="lab1/V3MainCollection.cs" Line="13" Column="10" />
+      <File FileName="lab1/CalculateMethodsComp.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab1" expanded="True">
+            <Node name="lab1" expanded="True">
+              <Node name="CalculateMethodsComp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.lab1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
