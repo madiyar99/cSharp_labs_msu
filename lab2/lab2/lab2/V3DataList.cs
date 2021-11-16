@@ -159,7 +159,7 @@ namespace lab2
             return true;
         }
 
-        public static bool LoadAsText(string filename, ref V3DataList v3)
+        public bool LoadAsText(string filename, ref V3DataList v3)
         {
             try
             {
