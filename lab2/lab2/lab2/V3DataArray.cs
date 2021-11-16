@@ -150,7 +150,7 @@ namespace lab2
             return true;
         }
 
-        public bool LoadBinary(string filename, ref V3DataArray v3)
+        public static bool LoadBinary(string filename, ref V3DataArray v3)
         {
             FileStream fs = null;
             try
