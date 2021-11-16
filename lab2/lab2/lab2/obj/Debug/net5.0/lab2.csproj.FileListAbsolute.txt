@@ -1,0 +1,15 @@
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/bin/Debug/net5.0/lab2.deps.json
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/bin/Debug/net5.0/lab2.runtimeconfig.json
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/bin/Debug/net5.0/lab2.runtimeconfig.dev.json
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/bin/Debug/net5.0/lab2.dll
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/bin/Debug/net5.0/ref/lab2.dll
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/bin/Debug/net5.0/lab2.pdb
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.csproj.AssemblyReference.cache
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.AssemblyInfoInputs.cache
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.AssemblyInfo.cs
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.csproj.CoreCompileInputs.cache
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.dll
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/ref/lab2.dll
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.pdb
+/Users/madiyar/Desktop/c#_labs/lab2/lab2/lab2/obj/Debug/net5.0/lab2.genruntimeconfig.cache
