@@ -241,7 +241,23 @@ namespace lab2
                     Console.WriteLine(item.ToString());
                 }
             }
-
+            
+            Console.WriteLine("Первый запрос linq. Находит среднее значение");
+            V3MainCollection collection_linq = new V3MainCollection();
+            V3DataArray data_arr_linq1 = new V3DataArray("data_arr_linq1", DateTime.Now, 1, 1, 3, 5, CalculateMethodsComp.calculate_func1);
+            V3DataArray data_arr_linq2 = new V3DataArray("data_arr_linq2", DateTime.Now, 1, 1, 2, 4, CalculateMethodsComp.calculate_func1);
+            collection_linq.Add(data_arr_linq1);
+            collection_linq.Add(data_arr_linq2);
+            for (int i = 0; i < collection_linq.Count; i++)
+            {
+                Console.WriteLine("Объект: " + collection_linq[i].str + ". Количество элементов: " + collection_linq[i].Count);
+                foreach (var x in collection_linq[i])
+                {
+                    Console.WriteLine(x);
+                }
+            }
+            Console.WriteLine(collection.Average_val);
+            
             return 0;
         }
     }
